@@ -7,27 +7,27 @@ let particlesPaused = false;
 particlesJS('particles-js', {
     particles: {
       number: {
-        value: 100,
+        value: 70,
         density: {
           enable: true,
-          value_area: 800
+          value_area: 500
         }
       },
       color: {
         value: ['#E57373', '#81C784', '#64B5F6', '#FFD54F', '#FF8A65','#FF0000', '#800080']  // Array of colors for random selection
       },
       shape: {
-        type: "circle",
+        type: "star",
       },
       opacity: {
-        value: 0.5,
+        value: 0.8,
         random: false,
         anim: {
           enable: false
         }
       },
       size: {
-        value: 15,
+        value: 30,
         random: true,
         anim: {
           enable: false,
