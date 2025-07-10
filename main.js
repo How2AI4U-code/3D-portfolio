@@ -27,7 +27,7 @@ particlesJS('particles-js', {
         }
       },
       size: {
-        value: 30,
+        value: 15,
         random: true,
         anim: {
           enable: false,
