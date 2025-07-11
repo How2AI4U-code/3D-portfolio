@@ -11,7 +11,7 @@
 /* Body Styles */
 body {
     font-family: 'Arial', sans-serif;
-    color: #FFF;  /* White color for readability against the particle background */
+    color: #eff3ef;  /* White color for readability against the particle background */
     background-color: #222;  /* Dark background color */
     overflow-x: hidden;  /* Hide any unexpected horizontal overflow */
     overflow-y: scroll;  /* Allow vertical scrolling */
@@ -21,7 +21,7 @@ body {
 /*Styling for the button that pause moving particle in the index.html */
 #toggleParticles {
     font-size: 12px; /* Small text */
-    background-color: #ae3a4b;
+    background-color: #0532e2;
     color: white;
     padding: 5px 10px; /* Small padding for compact size */
     border: none;
@@ -111,7 +111,7 @@ body {
 .contact-info {
     margin-top: 40px;  /* Push the contact section lower */
     padding-top: 20px; /* Add some inner space above the text */
-    border-top: 1px solid #f4f0f0; /* Thin divider line */
+    border-top: 1px solid #f4f4f3; /* Thin divider line */
     width: 40%; /* Make the divider shorter */
     margin-left: auto; /* Center the block horizontally */
     margin-right: auto;
@@ -122,7 +122,7 @@ body {
     font-size: 1.5rem;
     margin-bottom: 15px;  /* Add space below subtitle */
     font-weight: bold;
-    color: #f3eff2; /* Optional: Adjust the subtitle color */
+    color: #f8f4f7; /* Optional: Adjust the subtitle color */
 }
 
 
@@ -135,7 +135,7 @@ nav ul, .project-section {
 
 .contact-info p {
     margin-bottom: 10px;
-    color: #f5009f; /* Bright teal color for emails */
+    color: #f5007b; /* Bright teal color for emails */
     font-size: 14px; /* Slightly smaller email text for contrast */
 }
 
